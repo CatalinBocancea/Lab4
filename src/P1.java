@@ -9,6 +9,6 @@ public class P1 {
 
         double rezultat = (primulNr + alDoileaNr) / 2;
 
-        SkeletonJava.printGUI("Media aritmetica a celor doua numere este "+rezultat);
+        SkeletonJava.printGUI("Media aritmetica a celor doua numere este " + rezultat);
     }
 }
