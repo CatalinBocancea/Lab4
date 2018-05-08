@@ -14,6 +14,6 @@ public class P3 {
 
        double avg = sum / numere;
 
-        SkeletonJava.printGUI("Media aritmetica a celor " + numere + " numere este " + avg);
+       SkeletonJava.printGUI("Media aritmetica a celor " + numere + " numere este " + avg);
     }
 }

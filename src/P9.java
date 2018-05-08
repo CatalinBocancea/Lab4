@@ -6,7 +6,7 @@ public class P9 {
         double D = SkeletonJava.readDoubleGUI("Introduceti distanta dintre cele doua orase, in km: ");
         double d = D * 1000;
 
-        double  vIon = SkeletonJava.readDoubleGUI("Care este viteza lui Ion? (km/h)");
+        double vIon = SkeletonJava.readDoubleGUI("Care este viteza lui Ion? (km/h)");
         double vI = vIon * 1000 / 3600;
 
         double vFlorica = SkeletonJava.readDoubleGUI("Care este viteza Floricai? (km/h)");
