@@ -12,7 +12,7 @@ public class P11 {
                 i++;
             else
                 gasit = 1;
-        } while (gasit != 1 && i < array.length);
+        } while (gasit != 1 && array[i] <= n); // in cazul in care sirul nu ar fi ordonat crescator, va trebui sa parcurgem tot sirul, inlocuind a doua conditie cu i < array.length
 
         if (gasit == 1)
             SkeletonJava.printGUI("Numarul " + n + " se afla in sir la pozitia " + i);
