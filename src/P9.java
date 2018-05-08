@@ -22,6 +22,6 @@ public class P9 {
             dFlorica += vF;
         }
 
-        SkeletonJava.printGUI("Cei doi se vor intalni dupa " + sec / 60.0 + " minute, la o distanta de " + dIon / 1000 + " km fata de primul oras.");
+        SkeletonJava.printGUI("Cei doi se vor intalni dupa " + sec / 60 + " minute, la o distanta de " + dIon / 1000 + " km fata de primul oras.");
     }
 }
