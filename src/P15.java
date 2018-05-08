@@ -6,7 +6,7 @@ public class P15 {
 
         int n = SkeletonJava.readIntGUI("Introduceti numarul: ");
         int p = SkeletonJava.readIntGUI("Introduceti puterea: ");
-        int rezultat = 1;
+        long rezultat = 1;
 
         for (int i = 1; i <= p; i++)
             rezultat *= n;
