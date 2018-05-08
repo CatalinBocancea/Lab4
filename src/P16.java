@@ -5,7 +5,7 @@ public class P16 {
     public static void main(String[] args) {
 
         int n = SkeletonJava.readIntGUI("Introduceti numarul: ");
-        int fact = 1;
+        double fact = 1;
 
         for (int i = 1; i <= n; i++)
             fact *= i;
