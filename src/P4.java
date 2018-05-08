@@ -1,3 +1,5 @@
+// Se da un numar in grade Fahrenheit; sa se converteasca in Celsius
+
 public class P4 {
 
     public static void main(String[] args) {

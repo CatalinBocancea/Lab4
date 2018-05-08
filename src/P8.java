@@ -1,3 +1,5 @@
+// Sa se afle viteza in m/s cand se da distanta in km si timpul in ore
+
 public class P8 {
 
     public static void main(String[] args) {

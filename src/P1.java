@@ -1,3 +1,5 @@
+// Sa se calculeze media aritmetica a doua numere
+
 public class P1 {
 
     public static void main(String[] args) {

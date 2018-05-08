@@ -1,3 +1,5 @@
+// Sa se afle TVA-ul aferent unui produs cu pretul dat.
+
 public class P7 {
 
     public static void main(String[] args) {

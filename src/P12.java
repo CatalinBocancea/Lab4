@@ -1,3 +1,5 @@
+// Sa se calculeze suma primelor N numere naturale
+
 public class P12 {
 
     public static void main(String[] args) {

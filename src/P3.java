@@ -1,3 +1,5 @@
+// Sa se calculeze media aritmetica pana cand numarul introdus este 0
+
 public class P3 {
 
     public static void main(String[] args) {

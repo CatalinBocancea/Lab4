@@ -1,3 +1,4 @@
+// Meeting point between two people from different cities, when you know their speed towards eachother
 
 public class P9 {
 

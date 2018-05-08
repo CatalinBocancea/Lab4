@@ -1,3 +1,5 @@
+// Se dau doua numere n si p. Sa se afiseze numarul n la puterea p
+
 public class P15 {
 
     public static void main(String[] args) {

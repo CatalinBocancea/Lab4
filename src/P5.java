@@ -1,3 +1,5 @@
+// Sa se afiseze o tabela de conversie din Fahrenheit in Celsius, intre gradul min si gradul max
+
 public class P5 {
 
     public static void main(String[] args) {

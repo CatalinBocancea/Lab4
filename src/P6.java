@@ -1,3 +1,5 @@
+// Se da un sir de numere. Sa se afiseze: numarul maxim, numarul minim, suma lor, sirul dublat
+
 import java.util.Arrays;
 
 public class P6 {

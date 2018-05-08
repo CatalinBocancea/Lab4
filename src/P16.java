@@ -1,3 +1,5 @@
+// Sa se calculeze factorialul unui numar dat
+
 public class P16 {
 
     public static void main(String[] args) {
