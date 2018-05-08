@@ -6,7 +6,7 @@ public class P3 {
 
        double nr;
        double sum = 0;
-       double numere = 0;
+       double numere = -1;
 
        do {
            nr = SkeletonJava.readDoubleGUI("Introduceti numarul: ");
