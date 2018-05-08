@@ -6,9 +6,17 @@ public class P20 {
 
     public static void main(String[] args) {
 
-        int[] array = {5, 2, 9, 7, 4, 1, 8, 3};
+        int lungime = SkeletonJava.readIntGUI("Cate elemente sa aiba sirul?");
+        int[] array = new int[lungime];
         int[] newArray = new int[array.length];
         int j = 0;
+
+        for (int i = 0; i < array.length; i++) {
+            int n = (int)(Math.random()*19 + 1);
+            array[i] = n;
+        }
+
+        SkeletonJava.printConsole("Sirul generat este: " + Arrays.toString(array));
 
         for (int i = 0; i < array.length; i++) {
             if (i < (array.length / 2)) {
